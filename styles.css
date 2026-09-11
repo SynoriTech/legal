@@ -27,8 +27,9 @@
 }
 
 .theme-alarm {
-  --accent: #c65335;
-  --accent-strong: #98402a;
+  /* One-Time Alarm brand indigo (design/tokens.yaml colors.light.primary). */
+  --accent: #3947a6;
+  --accent-strong: #273d9d;
 }
 
 @media (prefers-color-scheme: dark) {

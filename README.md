@@ -12,7 +12,7 @@ App slugs added in this change:
 - `land-measure`
 - `sunmoon-planner`
 - `paycheck-budget`
-- `alarmonce`
+- `alarm-once`
 
 The existing `cleflark` and `dosechime` pages remain available and are linked
 from the site index.
