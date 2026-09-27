@@ -26,6 +26,12 @@
   --accent-strong: #3548ba;
 }
 
+.theme-cleflark {
+  /* Sight Reading Practice brand violet (design/tokens.yaml colors.light.primary). */
+  --accent: #5740ae;
+  --accent-strong: #46338c;
+}
+
 .theme-alarm {
   /* One-Time Alarm brand indigo (design/tokens.yaml colors.light.primary). */
   --accent: #3947a6;
